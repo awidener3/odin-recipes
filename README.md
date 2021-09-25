@@ -1,0 +1,2 @@
+This project is a simple recipe website using HTML. Going into it, I hope to make this a website that I can share with my family and friends and they can create and upload their own recipes to a directory - hopefully fixing that question of "how did you make that delicious bread pudding?!"
+Reflection to come.
