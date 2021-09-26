@@ -1,0 +1,35 @@
+body {
+    background-color: #D7CEC7;
+    color: #565656;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+}
+h1,
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #76323F;
+}
+h1 {
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+}
+h2 {
+    font-size: 26px;
+}
+img {
+    height: auto;
+    width: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.allergens {
+    font-weight: bold;
+    color: #76323F;
+}
